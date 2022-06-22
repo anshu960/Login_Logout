@@ -2,10 +2,22 @@ package com.example.login_logout
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.login_logout.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+
+    private lateinit var binding: ActivityMainBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+
+        binding.loginBtn.setOnClickListener {
+
+        }
+        binding.skipBtn.setOnClickListener {
+
+        }
     }
 }
