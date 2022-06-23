@@ -8,9 +8,9 @@
         <entry key="..\:/Login_Logout/app/src/main/res/drawable/shape_edittext01.xml" value="0.1115" />
         <entry key="..\:/Login_Logout/app/src/main/res/drawable/shape_toolbar01.xml" value="0.1115" />
         <entry key="..\:/Login_Logout/app/src/main/res/drawable/shape_toolbar02.xml" value="0.1115" />
-        <entry key="..\:/Login_Logout/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Login_Logout/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Login_Logout/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Login_Logout/app/src/main/res/layout/activity_register.xml" value="0.20364583333333333" />
+        <entry key="..\:/Login_Logout/app/src/main/res/layout/activity_register.xml" value="0.22" />
         <entry key="..\:/Login_Logout/app/src/main/res/layout/activity_splash.xml" value="0.20364583333333333" />
       </map>
     </option>
